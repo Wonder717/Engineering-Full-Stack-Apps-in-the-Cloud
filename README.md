@@ -1,9 +1,11 @@
 # My-Udagram-Project
 
 # Getting Started
-A.Setup Node Environment
-  The source code for this project can be found on the development branch(dev) of this repository. 
 
+The source code for this project can be found on the development branch(dev) of this repository. 
+
+A.Setup Node Environment
+  
 You'll need to create a new node server. Open a new terminal within the project directory and run:
 
 1.Initialize a new project: npm i
