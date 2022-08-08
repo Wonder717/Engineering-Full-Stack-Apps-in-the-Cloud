@@ -1,12 +1,14 @@
 # My-Udagram-Project
 
 # Getting Started
-1. Setup Node Environment
+A.Setup Node Environment
 You'll need to create a new node server. Open a new terminal within the project directory and run:
+1.Initialize a new project: npm i
 
-Initialize a new project: npm i
-run the development server with npm run dev
-2. Create a new endpoint in the server.ts file
+2.run the development server with npm run dev
+
+
+B. Create a new endpoint in the server.ts file
 The starter code has a task for you to complete an endpoint in ./src/server.ts which uses query parameter to download an image from a public URL, filter the image, and return the result.
 
 We've included a few helper functions to handle some of these concepts and we're importing it for you at the top of the ./src/server.ts file.
