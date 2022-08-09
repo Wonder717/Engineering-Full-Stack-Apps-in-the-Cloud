@@ -1,5 +1,7 @@
 # My-Udagram-Project
 
+The essence of this project is to demonstrate how flexible and expedient applications can easily be deployed to the cloud without having to deal with the heavy lifting involved when provisioning and managing virtual servers (EC2 instances, as in the case of AWS).
+
 # Getting Started
 
 The source code for this project can be found on the development branch(dev) of this repository. 
