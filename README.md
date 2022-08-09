@@ -1,7 +1,7 @@
 # My-Udagram-Project
 
 The essence of this project is to demonstrate how flexible and expedient applications can easily be deployed to the cloud without having to deal with the heavy lifting involved when provisioning and managing virtual servers (EC2 instances, as in the case of AWS).
-AWS PaaS offering; Elastic Beanstalk is the service that simplifies and achieves the objective of deploying applications without having to manually spin up servers,installing operating systems,patching,and other related system jobs to prepare an instance for its workload in the cloud. This affords 
+AWS PaaS offering; Elastic Beanstalk is the service that simplifies and achieves the objective of deploying applications without having to manually spin up servers,installing operating systems,patching,and other related system jobs to prepare an instance for its workload in the cloud. This affords any 
 
 # Getting Started
 
