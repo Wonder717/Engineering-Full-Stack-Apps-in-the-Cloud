@@ -6,7 +6,7 @@ AWS PaaS offering; Elastic Beanstalk is the service that simplifies and achieves
 
 AWS Elastic Beanstalk is beneficial for a myriad of use cases that offers business value. These include but are not limited to the following
 
-
+i. An application is able to withstand a surge in traffic due to the inclusion of autoscaling in the Elastic Beanstalk service
 
 # Getting Started
 
