@@ -10,7 +10,7 @@ i. An application is able to withstand a surge in traffic due to the inclusion o
 
 ii. Elastic beanstalk allows for the application to be easily and simply rolled back to previous versions as well. This is very instrumental to keep the most stable version of an application in production whiles new updates can be worked on and  packaged to be shipped when they are ready for the production environment with various options for deployment as well.
 
-iii. It’s also compatible with Linux and windows OS in server environments 
+iii. It’s also compatible with Linux and windows OS in server environments.
 
 # Getting Started
 
