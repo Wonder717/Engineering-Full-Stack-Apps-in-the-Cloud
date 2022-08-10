@@ -8,6 +8,9 @@ AWS Elastic Beanstalk is beneficial for a myriad of use cases that offers busine
 
 i. An application is able to withstand a surge in traffic due to the inclusion of autoscaling in the Elastic Beanstalk service
 
+ii. Elastic beanstalk allows for the application to be easily and simply rolled back to previous versions as well. This is very instrumental to keep the most stable version of an application in production whiles new updates can be worked on and  packaged to be shipped when they are ready for the production environment with various options for deployment as well.
+
+
 # Getting Started
 
 The source code for this project can be found on the development branch(dev) of this repository. 
