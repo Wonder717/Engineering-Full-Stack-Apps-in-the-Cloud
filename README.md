@@ -14,6 +14,9 @@ iii. It’s also compatible with Linux and windows OS in server environments.
 
 iv. In addition, a wide variety of programming languages are supported in Elastic Beanstalk. These include node.js,ruby,python,Java and PHP to list just a few.
 
+v. The load balancer provisioned by elastic beanstalk to be the gateway to an application can also be configured with a HTTPS protocol to ensure security by allowing traffic from specific ports.
+
+
 
 # Getting Started
 
