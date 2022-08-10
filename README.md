@@ -18,6 +18,8 @@ v. The load balancer provisioned by elastic beanstalk to be the gateway to an ap
 
 vi. It also ensures high availability by virtue of its capacity to be provision in multiple availability zones.
 
+A common factor that persists in each aforementioned point is the convenience and expediency elastic beanstalk affords an organization in the deployment of an application.
+
 
 # Getting Started
 
