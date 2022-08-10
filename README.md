@@ -12,7 +12,7 @@ ii. Elastic beanstalk allows for the application to be easily and simply rolled 
 
 iii. It’s also compatible with Linux and windows OS in server environments.
 
-iv. In addition, a wide variety of programming languages are supported in Elastic Beanstalksuch as node.js,ruby,python,Java and PHP to list just a few.
+iv. In addition, a wide variety of programming languages are supported in Elastic Beanstalk. These include node.js,ruby,python,Java and PHP to list just a few.
 
 
 # Getting Started
