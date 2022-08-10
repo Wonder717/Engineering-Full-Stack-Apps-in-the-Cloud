@@ -4,8 +4,7 @@ The essence of this project is to demonstrate how flexible and expedient applica
 
 AWS PaaS offering; Elastic Beanstalk is the service that simplifies and achieves the objective of deploying applications without having to manually spin up servers,install operating systems,patch,and perform other related system jobs to prepare an instance for its workload in the cloud. This affords any organization or business entity to dedicate more time on what distinguishes its business and increase productivity rather than performing repetitive infrastructural jobs that do not add to the value of its operation.
 
-AWS Elastic Beanstalk is beneficial for a myriad of use cases that offers business value.
- abstracts and serves an appreciable amount of benefits. These include but are not limited to the following
+AWS Elastic Beanstalk is beneficial for a myriad of use cases that offers business value. These include but are not limited to the following
 
 
 
