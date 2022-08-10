@@ -16,6 +16,7 @@ iv. In addition, a wide variety of programming languages are supported in Elasti
 
 v. The load balancer provisioned by elastic beanstalk to be the gateway to an application can also be configured with a HTTPS protocol to ensure security by allowing traffic from specific ports.
 
+vi. It also ensures high availability by virtue of its capacity to be provision in multiple availability zones.
 
 
 # Getting Started
