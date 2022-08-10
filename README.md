@@ -23,7 +23,7 @@ A common factor that persists in each aforementioned point is the convenience an
 
 # Getting Started
 
-The source code for this project can be found on the development branch(dev) of this repository. 
+The source code and a step-by-step instruction on how this project was executed can be found on the development branch(dev) of this repository. 
 
 A.Setup Node Environment
   
